@@ -1,13 +1,3 @@
 # Portifolio
-Portifolio do desenvolvedor
+Meu portifólio pessoal incluindo projetos, habilidades, cursos e tudo que diz respeito à minha carreira como desenvolvedor 
 
-## tarefas
-
-O controle das tarefas desse projeto será realizado no GitHub
-
-## ÍCONES
-
-:package: NOVA FUNCIONALIDADE
-:up: ATUALIZAÇÃO
-:beatle: CORREÇÃO DE BUG
-:checkered_flag: RELEASE
